@@ -1,0 +1,15 @@
+/Users/macos/Desktop/restapi/bin/Debug/netcoreapp2.0/appsettings.Development.json
+/Users/macos/Desktop/restapi/bin/Debug/netcoreapp2.0/appsettings.json
+/Users/macos/Desktop/restapi/bin/Debug/netcoreapp2.0/Properties/launchSettings.json
+/Users/macos/Desktop/restapi/bin/Debug/netcoreapp2.0/restapi.deps.json
+/Users/macos/Desktop/restapi/bin/Debug/netcoreapp2.0/restapi.runtimeconfig.json
+/Users/macos/Desktop/restapi/bin/Debug/netcoreapp2.0/restapi.runtimeconfig.dev.json
+/Users/macos/Desktop/restapi/bin/Debug/netcoreapp2.0/restapi.dll
+/Users/macos/Desktop/restapi/bin/Debug/netcoreapp2.0/restapi.pdb
+/Users/macos/Desktop/restapi/obj/Debug/netcoreapp2.0/restapi.csprojAssemblyReference.cache
+/Users/macos/Desktop/restapi/obj/Debug/netcoreapp2.0/restapi.AssemblyInfoInputs.cache
+/Users/macos/Desktop/restapi/obj/Debug/netcoreapp2.0/restapi.AssemblyInfo.cs
+/Users/macos/Desktop/restapi/obj/Debug/netcoreapp2.0/restapi.csproj.CoreCompileInputs.cache
+/Users/macos/Desktop/restapi/obj/Debug/netcoreapp2.0/restapi.dll
+/Users/macos/Desktop/restapi/obj/Debug/netcoreapp2.0/restapi.pdb
+/Users/macos/Desktop/restapi/obj/Debug/netcoreapp2.0/restapi.genruntimeconfig.cache
